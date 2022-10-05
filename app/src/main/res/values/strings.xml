@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">latihan-ui-design (EN Version)</string>
+    <string name="send">Send</string>
+    <string name="hint_name">Name</string>
+    <string name="country">Country</string>
+    <string name="title_edit_form">Edit Form</string>
+    <string name="title_fill_the_form">Fill the form</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="fill_your_name">Fill your name</string>
+    <string name="fill_your_country">Fill your country</string>
+    <string name="data_sent_successfully">Data sent successfully</string>
+</resources>

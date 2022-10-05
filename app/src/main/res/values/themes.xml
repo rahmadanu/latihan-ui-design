@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Latihanuidesign" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/light_green_600_primary</item>
+        <item name="colorPrimaryVariant">@color/light_green_600_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/light_green_600_primary</item>
+        <item name="colorSecondaryVariant">@color/light_green_600_dark</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="OutlinedTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/editTextMarginVertical</item>
+        <item name="android:layout_marginBottom">@dimen/editTextMarginVertical</item>
+    </style>
+
+    <style name="Theme.Latihanuidesign.LargeText">
+        <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Headline4</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

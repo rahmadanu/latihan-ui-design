@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">latihan-ui-design (ID Version)</string>
+    <string name="send">Kirim</string>
+    <string name="hint_name">Nama</string>
+    <string name="country">Asal negara</string>
+    <string name="title_edit_form">Ubah Form</string>
+    <string name="title_fill_the_form">Isi Form</string>
+    <string name="save">Simpan</string>
+    <string name="edit">Ubah</string>
+    <string name="fill_your_name">Isi nama terlebih dahulu</string>
+    <string name="fill_your_country">Isi asal negara terlebih dahulu</string>
+    <string name="data_sent_successfully">Data berhasil dikirim</string>
+</resources>
